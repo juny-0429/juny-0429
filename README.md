@@ -5,13 +5,18 @@
 ## 🛠️ Tech Stack
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Mui-007FFF?style=for-the-badge&logo=mui&logoColor=white">
-  <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakraui&logoColor=white">
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white"> 
 </div>
 
 <br>
@@ -20,7 +25,7 @@
 ## 📫 Contact Me
 
 <a href="https://juny0429.github.io/pjy-portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Web%20Portfolio-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Portfolio.v1-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white"/>
 </a>
 
 <a href="https://velog.io/@juny_0429" target="_blank">
@@ -40,17 +45,24 @@
 
 ## 🥑 Introduce
 
-"나는 어떤 개발자가 되고 싶은가?" 라는 질문에
+안녕하세요. 
 <br>
-"적극적인 소통으로 긍정적인 에너지를 나눌수 있는, 함께 일하고 싶은개발자" 라고 답하고싶다.
-
-내가 경험한 개발자는 개발자와 개발자, 고객 또는 사용자와 개발자 등 많은 인간관계 속에서 일한다는 것이다.   
-협업이 많은 개발 환경 속에서 커뮤니케이션이 중요한 만큼 상대방을 이해하고 공감하는 자세가 필요하다.
+잠은 죽어서 자고, 
 <br>
-나의 강점인 '커뮤니케이션 능력'으로 긍정적인 에너지를 만들어 낼수 있는 개발자로 성장하고 싶다
+무엇이든지 열심히 해야 한다는 신념을 가지고 있는 박준영이라고 합니다.
 
+<br>
 
+개발자는 기술의 빠른 발전 속도 속에서 끊임없이 공부하고, 새로운 것을 익히며, 
+<br>
+자신을 발전시켜야만 살아남을 수 있는 직업이라고 생각합니다. 
 
+<br>
+
+<br>
+저는 끊임없는 자기 계발과 열정을 바탕으로, 
+<br>
+주어진 모든 과제에 대해 최선을 다해 해결할 것입니다.
 
 <!--
 **juny0429/juny0429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
